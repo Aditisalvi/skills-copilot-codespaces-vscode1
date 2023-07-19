@@ -1,0 +1,45 @@
+//Create web server
+// 1. npm init
+// 2. npm install express --save
+// 3. npm install body-parser --save
+// 4. npm install mongoose --save
+// 5. npm install nodemon --save-dev
+// 6. npm install cors --save
+// 7. npm install dotenv --save
+// 8. npm install bcryptjs --save
+// 9. npm install jsonwebtoken --save
+// 10. npm install --save express-validator
+// 11. npm install uuid --save
+// 12. npm install formidable --save
+// 13. npm install lodash --save
+// 14. npm install fs --save
+// 15. npm install path --save
+// 16. npm install --save react-router-dom
+// 17. npm install react-bootstrap bootstrap
+// 18. npm install react-helmet --save
+// 19. npm install react-router-bootstrap --save
+// 20. npm install react-icons --save
+// 21. npm install react-toastify --save
+// 22. npm install react-geocode --save
+// 23. npm install react-google-autocomplete --save
+// 24. npm install react-places-autocomplete --save
+// 25. npm install react-places-autocomplete --save
+// 26. npm install react-star-ratings --save
+// 27. npm install react-stripe-checkout --save
+// 28. npm install react-dropzone --save
+// 29. npm install react-quill --save
+// 30. npm install axios --save
+// 31. npm install react-datepicker --save
+// 32. npm install react-moment --save
+// 33. npm install react-responsive-carousel --save
+// 34. npm install react-owl-carousel --save
+// 35. npm install react-slick --save
+// 36. npm install react-image-gallery --save
+// 37. npm install react-image-magnify --save
+// 38. npm install react-image-appear --save
+// 39. npm install react-visibility-sensor --save
+// 40. npm install react-select --save
+// 41. npm install react-select-search --save
+// 42. npm install react-paginate --save
+// 43. npm install react-scroll --save
+//
